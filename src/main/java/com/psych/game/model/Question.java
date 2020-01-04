@@ -1,6 +1,6 @@
 package com.psych.game.model;
 
-import app.psych.game.Constants;
+import com.psych.game.Constants;
 import lombok.Getter;
 import lombok.Setter;
 

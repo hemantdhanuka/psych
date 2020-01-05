@@ -13,6 +13,10 @@ import java.util.Map;
 public class Game extends Auditable {
     @Getter
     @Setter
+    private boolean hasEllen = false;
+
+    @Getter
+    @Setter
     @NotNull
     private int numRounds;
 

@@ -55,7 +55,7 @@ public class PopulateDB {
         Player vikesh = new Player();
         vikesh.setName("Vikesh Agarwal");
         vikesh.setPicURL("https://i.imgur.com/kB7StJm.png");
-        vikesh.setPicURL("https://i.imgur.com/tnJTeaG.png");
+        vikesh.setPsychFaceURL("https://i.imgur.com/tnJTeaG.png");
         playerRepository.save(hemant);
         playerRepository.save(vikesh);
     }
